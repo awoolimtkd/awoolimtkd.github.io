@@ -5,11 +5,10 @@
 
 `push-server/` 는 앱 푸시를 보내는 서버 프로그램(Firebase Cloud Functions)이에요. 각 도장이 자기 Firebase 프로젝트에 설치합니다.
 
+Google Cloud Shell(https://shell.cloud.google.com)에서 한 줄로 설치해요:
+
 ```bash
-cd push-server
-npm --prefix functions install
-npx firebase-tools login
-npx firebase-tools deploy --only functions --project 프로젝트ID
+curl -fsSL https://awoolimtkd.github.io/push-server/install.sh | bash
 ```
 
-마지막 배포: 1bf1f7c
+마지막 배포: 76d2a69
