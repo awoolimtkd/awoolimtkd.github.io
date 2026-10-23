@@ -11,4 +11,4 @@ Google Cloud Shell(https://shell.cloud.google.com)에서 한 줄로 설치해요
 curl -fsSL https://awoolimtkd.github.io/push-server/install.sh | bash
 ```
 
-마지막 배포: 2fbf658
+마지막 배포: a4aabf8
