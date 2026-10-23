@@ -12,4 +12,4 @@ npx firebase-tools login
 npx firebase-tools deploy --only functions --project 프로젝트ID
 ```
 
-마지막 배포: 33c1387
+마지막 배포: 4afca6b
